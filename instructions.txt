@@ -1,6 +1,6 @@
 Peel avocados
 bananas
-chop 1 jalapeno
+chop all the jalapeno
 --helllo everyone
 --add salt
 --mix in cilantro
