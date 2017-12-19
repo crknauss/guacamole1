@@ -3,3 +3,4 @@ salt
 lime
 jalapeno
 onion
+cilantro
