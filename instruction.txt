@@ -2,4 +2,3 @@ Peel avocados
 bananas
 chop 1 jalapeno
 --helllo everyone
---add salt
