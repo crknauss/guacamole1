@@ -1,6 +1,6 @@
-acovados
+2 acovados
 salt
-lime
-jalapeno
-onion
-cilantro
+1 lime
+1 jalapeno
+1 onion
+bunch cilantro
